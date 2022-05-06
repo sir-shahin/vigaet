@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## This is Tailwind css webapp
 
+Install the Tailwind css with `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
